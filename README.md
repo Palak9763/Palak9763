@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0ea5e9&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/Palak9763&label=Profile%20Views&color=0ea5e9&style=flat"/>
 
 </div>
 
