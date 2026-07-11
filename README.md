@@ -30,7 +30,6 @@ CURRENT ROLE
 
 🎓 Computer Science Engineering Student
 
-
 Focus
 
 🧠 Computer Vision
@@ -89,8 +88,6 @@ Python
 PyTorch
 
 TensorFlow
-
-OpenCV
 
 PaddleOCR
 
