@@ -1,4 +1,5 @@
 <div align="center">
+  
 # PALAK DESHMUKH
 ### AI Engineer • Backend Development
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=950&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>
