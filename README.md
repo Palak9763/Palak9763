@@ -263,10 +263,6 @@ MLOps
 • Distributed Backend Systems
 
 • RAG
-
-• MLOps
-
----
 # 🚀 FEATURED PROJECTS
 
 <table>
@@ -275,35 +271,55 @@ MLOps
 
 <td width="50%">
 
-## 📝 Intelligent OCR Platform
+## 🎓 StudExa
 
-**A production-ready OCR system capable of recognizing printed and handwritten text with high accuracy.**
+**Student Progress Monitoring Platform**
 
-### Features
+A centralized web application that helps institutions manage student achievements, MAP points, and academic activities through a unified dashboard.
 
-- PaddleOCR Detection
-- TrOCR Recognition
-- OpenCV Processing
-- FastAPI Backend
-- JSON Output
-- Confidence Scores
+### Highlights
+
+- 📌 Student Activity Tracking
+- 📊 Automatic MAP Point Calculation
+- 👨‍🏫 Admin Verification System
+- 🔒 Secure Authentication
+- 📱 Responsive Dashboard
+
+### Tech Stack
+
+`Django` • `Python` • `SQLite` • `HTML` • `CSS`
+
+🔗 **Live Demo**
+
+https://studexa-project.onrender.com/
 
 </td>
 
 <td width="50%">
 
-## 🏦 AI Bank Statement Analyzer
+## 📷 SmartCam
 
-**AI-powered document processing system for understanding financial statements.**
+**AI Powered Health Monitoring System**
 
-### Features
+A computer vision application that analyzes webcam input to estimate user wellness and monitor fatigue in real time.
 
-- PDF Processing
-- Transaction Extraction
-- AI Narration Grouping
-- Sentence Embeddings
-- Redis Workers
-- REST APIs
+### Highlights
+
+- 👁️ Computer Vision
+- 📷 Webcam Monitoring
+- 😴 Fatigue Detection
+- 🪑 Posture Analysis
+- ❤️ Health Score Generation
+
+### Tech Stack
+
+`React`
+
+`CSS`
+
+`SQLiteAI`
+
+`rPPG`
 
 </td>
 
@@ -313,35 +329,57 @@ MLOps
 
 <td width="50%">
 
-## 📄 Smart PDF Intelligence
+## ⚙ OpenModelica
 
-Extract structured information from PDFs.
+**Engineering Simulation Platform**
 
-### Features
+Built engineering models using the Modelica language and simulated them with OpenModelica tools.
 
-- Table Extraction
-- Invoice Parsing
-- JSON Output
-- Excel Export
-- OCR Pipeline
-- Multi-page Processing
+### Highlights
+
+- ⚙ System Modeling
+- 🏗 Engineering Simulation
+- 📈 Performance Analysis
+- 🛠 OMEdit
+- 🔬 OMCompiler
+
+### Tech Stack
+
+`Python`
+
+`PyQt6`
+
+`OpenModelica`
+
+`OMEdit`
+
+🔗 GitHub
+
+https://github.com/Palak9763/OpenModelica
 
 </td>
 
 <td width="50%">
 
-## 📊 GST Reconciliation
+## 🚧 Currently Building
 
-Backend automation system for financial reconciliation.
+I enjoy building intelligent backend systems that combine Artificial Intelligence with real-world automation.
 
-### Features
+### Current Interests
 
-- Invoice Matching
-- Excel Processing
-- Tally Integration
-- Variance Reports
-- FastAPI
-- PostgreSQL
+- 🤖 Artificial Intelligence
+- 👁 Computer Vision
+- 📝 OCR Systems
+- ⚡ FastAPI
+- 📄 Document Intelligence
+- 🧠 Deep Learning
+
+**Next Major Projects**
+
+- Intelligent OCR Platform
+- AI Document Processing APIs
+- Smart PDF Intelligence
+- AI Powered Automation
 
 </td>
 
@@ -381,85 +419,60 @@ Backend automation system for financial reconciliation.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=tokyonight&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=tokyonight&column=4"/>
 
 </div>
 
 ---
 
-# 📅 2026 ROADMAP
+# 🎯 2026 ROADMAP
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 Become an AI Engineer
 
-☑ Build Advanced OCR Engine
+📄 Build Intelligent OCR Systems
 
-☑ Learn Vision Language Models
+🤖 Master Deep Learning
 
-☑ Explore Multimodal AI
+👁 Learn Vision Language Models
 
-☑ Deploy AI Applications
+⚡ Build Production FastAPI APIs
 
-☑ Learn MLOps
+☁ Learn Cloud Deployment
 
-☑ Contribute to Open Source
+🌍 Contribute to Open Source
 
-☑ Build SaaS AI Products
-
-☑ Secure AI Engineering Internship
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 Continuously Build Real Projects
 ```
 
 ---
 
-# 🌱 CURRENTLY LEARNING
+# 📚 CURRENTLY LEARNING
 
-```text
-🧠 Large Language Models
-
-👁 Vision Language Models
-
-⚙ AI System Design
-
-📄 Intelligent Document Processing
-
-🚀 Kubernetes
-
-☁ Cloud Deployment
-
-🔍 Model Fine-Tuning
-
-🤖 Agentic AI
-```
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Vision Language Models
+- FastAPI
+- Backend Architecture
+- AI System Design
 
 ---
 
-# 💭 MY APPROACH
+# 💭 MY ENGINEERING PHILOSOPHY
 
-```text
-Think.
+> Build things that solve real problems.
 
-Design.
+I believe practical experience comes from creating projects, experimenting with new technologies, and continuously improving through hands-on development.
 
-Build.
-
-Test.
-
-Improve.
-
-Repeat.
-```
-
-Every project I build is an opportunity to improve my engineering skills and understand AI at a deeper level.
-
-I'm interested in creating software that combines machine learning with scalable backend systems to solve practical problems.
+Every project I build teaches me something new and pushes me one step closer to becoming a better engineer.
 
 ---
 
 # 🤝 LET'S CONNECT
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Palak9763">
 
@@ -479,18 +492,19 @@ I'm interested in creating software that combines machine learning with scalable
 
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-## ⚡ Thanks for Visiting!
+## ⭐ Thanks for Visiting My Profile
 
-### *Building Intelligent Systems • Learning Every Day • Growing Through Projects*
+### Learning • Building • Improving • Repeating
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00C4FF,100:6C63FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00C4FF,100:6C63FF"/>
 
 </div>
+
+• MLOps
+
