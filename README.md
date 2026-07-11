@@ -30,9 +30,6 @@ CURRENT ROLE
 
 🎓 Computer Science Engineering Student
 
-Target Role
-
-🚀 AI / Machine Learning Engineer
 
 Focus
 
