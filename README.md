@@ -395,7 +395,6 @@ I enjoy building intelligent backend systems that combine Artificial Intelligenc
 # 🎯 2026 ROADMAP
 
 ```text
-🎯 Become an AI Engineer
 
 📄 Build Intelligent OCR Systems
 
