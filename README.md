@@ -304,14 +304,7 @@ Built engineering models using the Modelica language and simulated them with Ope
 - 🔬 OMCompiler
 
 ### Tech Stack
-
-`Python`
-
-`PyQt6`
-
-`OpenModelica`
-
-`OMEdit`
+`Python` • `PyQT6` • `OpenModelica` • `OMEdit` 
 
 🔗 GitHub
 
