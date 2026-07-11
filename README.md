@@ -17,6 +17,26 @@
 
 # // HELLO WORLD 👋
 
+```python
+class Palak:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.education = "B.Tech Computer Science Engineering"
+        self.interests = [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Machine Learning",
+            "Backend Development",
+            "Deep Learning"
+        ]
+
+    def current_goal(self):
+        return "Building Production Ready AI Applications"
+
+me = Palak()
+print(me.current_goal())
+```
 
 ---
 
