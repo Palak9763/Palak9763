@@ -1,9 +1,6 @@
 <div align="center">
-
 # PALAK DESHMUKH
-
-### AI Engineer • Computer Vision • Backend Development
-
+### AI Engineer • Backend Development
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=950&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>
 
 <br>
@@ -61,7 +58,6 @@ My projects mainly revolve around:
 - FastAPI
 - AI-powered APIs
 - Document Intelligence
-- Financial Automation
 - Deep Learning
 
 I believe the best way to grow is by building things consistently.
@@ -81,7 +77,6 @@ I believe the best way to grow is by building things consistently.
 
 ✓ Build Open Source Projects
 
-✓ Become an AI Engineer
 ```
 
 ---
@@ -100,10 +95,6 @@ TensorFlow
 OpenCV
 
 PaddleOCR
-
-TrOCR
-
-EasyOCR
 
 Transformers
 
@@ -124,8 +115,6 @@ FastAPI
 REST APIs
 
 Redis
-
-JWT Authentication
 
 Swagger
 
@@ -151,8 +140,6 @@ GitHub
 
 Docker
 
-Linux
-
 VS Code
 
 Postman
@@ -172,27 +159,9 @@ Instead of creating simple applications, I enjoy building systems that automate 
 
 ---
 
-📝 Intelligent OCR Engine
-
-Converts printed and handwritten documents into structured digital information using modern deep learning models.
-
----
-
 🏦 Bank Statement Intelligence
 
 Reads bank statements, extracts transactions, generates embeddings, groups narrations intelligently, and exposes everything through scalable REST APIs.
-
----
-
-📄 Smart PDF Intelligence
-
-Transforms PDFs into structured JSON and Excel while preserving tables and document layouts.
-
----
-
-📊 GST Reconciliation Platform
-
-Enterprise backend system that automates invoice matching and financial reconciliation.
 
 ---
 
@@ -225,9 +194,6 @@ Open Source
 
 ████████████░░░░░░░░░░
 
-MLOps
-
-██████████░░░░░░░░░░░░
 ```
 
 ---
