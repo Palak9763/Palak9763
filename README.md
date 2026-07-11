@@ -1,4 +1,4 @@
-
+````markdown
 <div align="center">
 
 # 👋 Hey, I'm Palak Deshmukh
@@ -17,7 +17,7 @@
 
 # // HELLO WORLD 👋
 
-
+```python
 class Palak:
 
     def __init__(self):
@@ -36,7 +36,7 @@ class Palak:
 
 me = Palak()
 print(me.current_goal())
-
+```
 
 ---
 
@@ -340,4 +340,4 @@ When I'm not coding, you'll usually find me:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:7c3aed"/>
 
 </div>
-
+````
