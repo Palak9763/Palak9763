@@ -1,358 +1,496 @@
 <div align="center">
 
-# 👋 Hi, I'm **Palak Deshmukh**
+# PALAK DESHMUKH
 
-### AI Engineer • Computer Vision Enthusiast • Backend Developer
+### AI Engineer • Computer Vision • Backend Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Building+AI+Solutions+for+Real+World+Problems;Computer+Vision+%7C+Deep+Learning+%7C+OCR;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=950&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Palak9763&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Palak9763&label=Visitors&color=0ea5e9&style=flat"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# AI ENGINEER DASHBOARD
 
-I'm a **Computer Science Engineering student** passionate about building intelligent software that solves real-world problems through **Artificial Intelligence**, **Machine Learning**, and **Backend Development**.
+```text
+──────────────────────────────────────────────────────────────
 
-I enjoy transforming research concepts into production-ready applications—from OCR pipelines and document intelligence systems to scalable FastAPI services.
+STATUS
 
-I believe in learning by building, continuously improving, and sharing knowledge through projects.
+🟢 Learning
+🟢 Building
+🟢 Experimenting
+🟢 Shipping Projects
 
----
+──────────────────────────────────────────────────────────────
 
-# 🎯 Current Mission
+CURRENT ROLE
 
-- 🤖 Become an AI Engineer
-- 🧠 Master Computer Vision
-- 📄 Build Intelligent OCR Systems
-- ⚡ Develop Production-Ready Backend APIs
-- 📚 Explore Large Language Models
-- 🚀 Contribute to Open Source
+🎓 Computer Science Engineering Student
 
----
+Target Role
 
-# 🛠 Tech Stack
+🚀 AI / Machine Learning Engineer
 
-## 💻 Programming Languages
+Focus
 
-<p>
+🧠 Computer Vision
+📄 OCR
+⚡ Backend APIs
+🤖 Deep Learning
 
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-
-</p>
+──────────────────────────────────────────────────────────────
+```
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+# WHO AM I
 
-<p>
+I enjoy building software that combines **Artificial Intelligence** with **Backend Engineering** to solve real-world problems.
 
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+Rather than only learning concepts, I prefer turning ideas into working products.
 
-</p>
+My projects mainly revolve around:
 
-### Technologies
-
-- PyTorch
-- TensorFlow
-- OpenCV
-- Hugging Face Transformers
-- PaddleOCR
-- TrOCR
-- EasyOCR
-- CNN
-- Vision Transformers
-- Sentence Transformers
-- Ollama
-- Embeddings
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-
----
-
-## ⚙ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
-### Backend Skills
-
+- Intelligent OCR
+- Computer Vision
 - FastAPI
-- REST APIs
-- JWT Authentication
-- Background Workers
-- Redis
-- Swagger Documentation
-- API Integration
-- File Processing
-- JSON APIs
-
----
-
-## 🗄 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgresql"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-## 🛠 Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
-
----
-
-# 🌟 What I'm Building
-
-## 📝 Intelligent OCR System
-
-Production-ready OCR engine capable of extracting printed and handwritten text using deep learning models.
-
-**Tech Used**
-
-- PaddleOCR
-- TrOCR
-- OpenCV
-- FastAPI
-- PyTorch
-
----
-
-## 🏦 AI Bank Statement Analyzer
-
-A backend system that extracts transactions from bank statements, generates embeddings, groups narrations intelligently, and exposes everything through REST APIs.
-
-**Tech Used**
-
-- FastAPI
-- Redis
-- Sentence Transformers
-- Ollama
-- PostgreSQL
-
----
-
-## 📊 GST Reconciliation Platform
-
-Enterprise-grade backend application for matching invoices, processing Excel files, and generating reconciliation reports.
-
-**Tech Used**
-
-- FastAPI
-- Pandas
-- PostgreSQL
-- Excel Processing
-
----
-
-## 📄 Smart PDF Intelligence
-
-Extract tables, forms, invoices, and business documents from PDFs into structured JSON and Excel.
-
----
-
-# 🧠 What I'm Currently Learning
-
-- Large Language Models (LLMs)
-- Vision Language Models (VLMs)
+- AI-powered APIs
+- Document Intelligence
+- Financial Automation
 - Deep Learning
-- Model Fine-Tuning
-- RAG
-- MLOps
-- Kubernetes
-- AI System Design
+
+I believe the best way to grow is by building things consistently.
 
 ---
 
-# 💡 Engineering Principles
+# CURRENT MISSION
+
+```text
+✓ Master Computer Vision
+
+✓ Learn Deep Learning in Depth
+
+✓ Build Production AI Systems
+
+✓ Explore Large Language Models
+
+✓ Build Open Source Projects
+
+✓ Become an AI Engineer
+```
+
+---
+
+# TOOLBOX
+
+## Artificial Intelligence
+
+```text
+Python
+
+PyTorch
+
+TensorFlow
+
+OpenCV
+
+PaddleOCR
+
+TrOCR
+
+EasyOCR
+
+Transformers
+
+Sentence Transformers
+
+Ollama
+
+Embeddings
+```
+
+---
+
+## Backend
+
+```text
+FastAPI
+
+REST APIs
+
+Redis
+
+JWT Authentication
+
+Swagger
+
+Background Workers
+
+PostgreSQL
+
+MySQL
+
+MongoDB
+
+SQLite
+```
+
+---
+
+## Development
+
+```text
+Git
+
+GitHub
+
+Docker
+
+Linux
+
+VS Code
+
+Postman
+
+NumPy
+
+Pandas
+
+Scikit-Learn
+```
+
+---
+
+# WHAT I BUILD
+
+Instead of creating simple applications, I enjoy building systems that automate real business workflows.
+
+---
+
+📝 Intelligent OCR Engine
+
+Converts printed and handwritten documents into structured digital information using modern deep learning models.
+
+---
+
+🏦 Bank Statement Intelligence
+
+Reads bank statements, extracts transactions, generates embeddings, groups narrations intelligently, and exposes everything through scalable REST APIs.
+
+---
+
+📄 Smart PDF Intelligence
+
+Transforms PDFs into structured JSON and Excel while preserving tables and document layouts.
+
+---
+
+📊 GST Reconciliation Platform
+
+Enterprise backend system that automates invoice matching and financial reconciliation.
+
+---
+
+🤖 AI Backend APIs
+
+Production-ready FastAPI services designed for intelligent document processing.
+
+---
+
+# CURRENT ROADMAP
+
+```text
+Computer Vision
+
+███████████████████████
+
+Deep Learning
+
+███████████████████░░░
+
+Large Language Models
+
+███████████████░░░░░░░
+
+Backend Engineering
+
+██████████████████████
+
+Open Source
+
+████████████░░░░░░░░░░
+
+MLOps
+
+██████████░░░░░░░░░░░░
+```
+
+---
+
+# ENGINEERING PRINCIPLES
 
 ✔ Learn by Building
 
-✔ Read Documentation
+✔ Read Documentation First
 
-✔ Keep Code Maintainable
+✔ Keep Solutions Simple
 
-✔ Build Production-Ready Software
+✔ Write Maintainable Code
 
-✔ Automate Repetitive Tasks
+✔ Production > Demo
+
+✔ Consistency Beats Motivation
 
 ✔ Never Stop Learning
 
 ---
 
-# 📂 Areas of Interest
+# CURRENTLY EXPLORING
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- OCR Systems
-- Backend Development
-- API Development
-- Intelligent Document Processing
+• Vision Language Models
+
+• OCR Optimization
+
+• Model Fine-Tuning
+
+• AI System Design
+
+• Distributed Backend Systems
+
+• RAG
+
+• MLOps
 
 ---
-# 📈 GitHub Analytics
+# 🚀 FEATURED PROJECTS
 
-<p align="center">
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📝 Intelligent OCR Platform
+
+**A production-ready OCR system capable of recognizing printed and handwritten text with high accuracy.**
+
+### Features
+
+- PaddleOCR Detection
+- TrOCR Recognition
+- OpenCV Processing
+- FastAPI Backend
+- JSON Output
+- Confidence Scores
+
+</td>
+
+<td width="50%">
+
+## 🏦 AI Bank Statement Analyzer
+
+**AI-powered document processing system for understanding financial statements.**
+
+### Features
+
+- PDF Processing
+- Transaction Extraction
+- AI Narration Grouping
+- Sentence Embeddings
+- Redis Workers
+- REST APIs
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📄 Smart PDF Intelligence
+
+Extract structured information from PDFs.
+
+### Features
+
+- Table Extraction
+- Invoice Parsing
+- JSON Output
+- Excel Export
+- OCR Pipeline
+- Multi-page Processing
+
+</td>
+
+<td width="50%">
+
+## 📊 GST Reconciliation
+
+Backend automation system for financial reconciliation.
+
+### Features
+
+- Invoice Matching
+- Excel Processing
+- Tally Integration
+- Variance Reports
+- FastAPI
+- PostgreSQL
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GITHUB DASHBOARD
+
+<div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Palak9763&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak9763&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Palak9763&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak9763&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=tokyonight&column=4&margin-w=15"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build Production-Ready AI Applications
-- 🧠 Master Deep Learning & Computer Vision
-- 📄 Create Advanced OCR & Document Intelligence Systems
-- 🤖 Explore Large Language Models & Vision Language Models
-- 🌍 Contribute to Open Source AI Projects
-- ☁️ Learn MLOps and Cloud Deployment
-- 💼 Secure an AI/ML Internship
-- 📚 Keep Learning Every Day
-
----
-
-# 🌍 Beyond Coding
-
-Apart from coding, I enjoy:
-
-- 📚 Reading about emerging AI technologies
-- 🧩 Solving programming challenges
-- 💡 Experimenting with new frameworks and tools
-- 🛠️ Building personal side projects
-- 🤝 Collaborating with developers and learning from the community
-
----
-
-# 📌 Featured Technologies
 
 <div align="center">
 
-| AI & ML | Backend | Databases | Tools |
-|---------|---------|-----------|------|
-| PyTorch | FastAPI | PostgreSQL | Git |
-| TensorFlow | Flask | MySQL | Docker |
-| OpenCV | REST APIs | MongoDB | Linux |
-| PaddleOCR | Redis | SQLite | Postman |
-| TrOCR | JWT | | VS Code |
-| Hugging Face | Background Workers | | GitHub |
+<img src="https://streak-stats.demolab.com?user=Palak9763&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📖 Currently Reading & Exploring
+<div align="center">
 
-- 📘 Deep Learning
-- 📘 FastAPI Advanced Concepts
-- 📘 Hugging Face Transformers
-- 📘 Computer Vision Research
-- 📘 AI System Design
-- 📘 MLOps
-- 📘 Distributed Backend Systems
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak9763&theme=tokyo-night"/>
 
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Palak9763">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/palak-deshmukh-49819231b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:palakdeshmukh181@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💭 A Thought That Drives Me
-
-> **"Technology has the greatest impact when it solves real problems. Every project I build is a step toward creating something meaningful."**
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile!
+<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=tokyonight&column=4&margin-w=15"/>
 
-### *Building AI Solutions • Learning Every Day • Turning Ideas into Reality*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0ea5e9,100:7c3aed"/>
+---
+
+# 📅 2026 ROADMAP
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☑ Build Advanced OCR Engine
+
+☑ Learn Vision Language Models
+
+☑ Explore Multimodal AI
+
+☑ Deploy AI Applications
+
+☑ Learn MLOps
+
+☑ Contribute to Open Source
+
+☑ Build SaaS AI Products
+
+☑ Secure AI Engineering Internship
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🌱 CURRENTLY LEARNING
+
+```text
+🧠 Large Language Models
+
+👁 Vision Language Models
+
+⚙ AI System Design
+
+📄 Intelligent Document Processing
+
+🚀 Kubernetes
+
+☁ Cloud Deployment
+
+🔍 Model Fine-Tuning
+
+🤖 Agentic AI
+```
+
+---
+
+# 💭 MY APPROACH
+
+```text
+Think.
+
+Design.
+
+Build.
+
+Test.
+
+Improve.
+
+Repeat.
+```
+
+Every project I build is an opportunity to improve my engineering skills and understand AI at a deeper level.
+
+I'm interested in creating software that combines machine learning with scalable backend systems to solve practical problems.
+
+---
+
+# 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Palak9763">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/palak-deshmukh-49819231b">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:palakdeshmukh181@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Thanks for Visiting!
+
+### *Building Intelligent Systems • Learning Every Day • Growing Through Projects*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00C4FF,100:6C63FF"/>
 
 </div>
