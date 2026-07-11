@@ -279,14 +279,7 @@ A computer vision application that analyzes webcam input to estimate user wellne
 - ❤️ Health Score Generation
 
 ### Tech Stack
-
-`React`
-
-`CSS`
-
-`SQLiteAI`
-
-`rPPG`
+`React` • `CSS` • `SQLiteAI` • `rPPG` 
 
 </td>
 
@@ -404,8 +397,6 @@ I enjoy building intelligent backend systems that combine Artificial Intelligenc
 
 ⚡ Build Production FastAPI APIs
 
-☁ Learn Cloud Deployment
-
 🌍 Contribute to Open Source
 
 🚀 Continuously Build Real Projects
@@ -472,5 +463,4 @@ Every project I build teaches me something new and pushes me one step closer to 
 
 </div>
 
-• MLOps
 
