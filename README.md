@@ -1,294 +1,197 @@
 <div align="center">
 
-# 👋 Hi, I'm **Palak Deshmukh**
+# 👋 Hey, I'm Palak Deshmukh
 
-### AI/ML Engineer • Computer Vision Enthusiast • Backend Developer
+### AI • Machine Learning • Computer Vision • Backend Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;FastAPI+Backend+Developer;Building+Production+Ready+AI+Systems;OCR+%7C+Deep+Learning+%7C+LLMs;Always+Learning+Something+New"/>
+> *Building intelligent systems that solve real-world problems.*
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Palak9763&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/Palak9763?style=social"/>
-<img src="https://img.shields.io/github/stars/Palak9763?style=social"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;FastAPI+Backend+Developer;Building+Production-Ready+AI+Projects;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 💫 About Me
 
-I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Backend Development**.
+I'm a Computer Science Engineering student passionate about building AI-powered applications.
 
-I enjoy building production-ready AI applications that automate real-world workflows—from OCR pipelines and intelligent document processing to scalable REST APIs.
+I enjoy working on projects involving:
 
-Currently exploring the intersection of **Vision AI**, **Large Language Models**, and **Backend Engineering**.
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 📝 OCR & Intelligent Document Processing
+* ⚡ FastAPI & Backend APIs
+* 📄 PDF, Invoice & Bank Statement Automation
+* 🧠 Deep Learning & Generative AI
 
----
-
-# 🌱 Currently Learning
-
-* Large Language Models (LLMs)
-* Vision Language Models (VLMs)
-* Deep Learning
-* OCR & Intelligent Document Processing
-* MLOps
-* AI System Design
-* Distributed Backend Systems
+I believe in learning by building. Every project I create teaches me something new about scalable software and practical AI.
 
 ---
 
-# 💻 Programming Languages
+# 🚀 Tech Stack
+
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css"/>
 </p>
 
----
-
-# ⚙️ AI / Machine Learning
+### AI & Data Science
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-### Technologies
+**Libraries & Frameworks**
 
-* PyTorch
-* TensorFlow
+* OpenCV
 * Hugging Face Transformers
 * PaddleOCR
 * TrOCR
 * EasyOCR
-* OpenCV
 * NumPy
 * Pandas
 * Scikit-Learn
 * Matplotlib
 * Sentence Transformers
-* Embeddings
-* Ollama
-* Local LLM Deployment
 
 ---
 
-# 🚀 Backend Development
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
 </p>
 
-### Backend Skills
+Experienced with:
 
-* FastAPI
 * REST APIs
 * JWT Authentication
+* Redis
 * Background Workers
-* Redis Queue
-* File Upload APIs
-* Swagger Documentation
-* API Integration
-* JSON Processing
+* API Documentation
+* File Processing APIs
+* JSON APIs
 
 ---
 
-# 🗄️ Databases
+### Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=postgresql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite"/>
 </p>
 
 ---
 
-# 🛠️ Tools & Platforms
+### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🌟 Featured Projects
 
-### 📝 Intelligent OCR Text Extraction
+### 📝 AI OCR Engine
 
-* PaddleOCR
-* TrOCR
-* OpenCV
-* FastAPI
-* Confidence Scoring
-* Structured JSON Output
+Production-ready OCR system capable of extracting printed and handwritten text using modern deep learning models.
+
+**Tech:** Python • PaddleOCR • TrOCR • OpenCV • FastAPI
 
 ---
 
-### 🏦 AI Bank Statement Analyzer
+### 🏦 Intelligent Bank Statement Analyzer
 
-* OCR Pipeline
-* Ollama
-* Sentence Transformers
-* Transaction Classification
-* Embeddings
-* Redis Workers
-* FastAPI
+AI-powered system that processes bank statements, extracts transactions, groups narrations using embeddings, and exposes everything through REST APIs.
+
+**Tech:** FastAPI • Redis • Ollama • Sentence Transformers
 
 ---
 
 ### 📊 GST Reconciliation System
 
-* Excel Processing
-* Invoice Matching
-* REST APIs
-* Backend Automation
-* Financial Data Processing
+Enterprise backend solution for matching financial records, processing Excel files, and generating reconciliation reports.
+
+**Tech:** FastAPI • PostgreSQL • Pandas
 
 ---
 
-### 📄 Smart PDF Table Extractor
+### 📄 Smart PDF Extractor
 
-* PDF Processing
-* OCR
-* Table Detection
-* Excel Export
-* JSON Extraction
+Extracts structured tables and information from complex PDFs into JSON and Excel.
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Palak9763&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak9763&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak9763&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak9763&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 What I'm Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=darkhub&column=7"/>
-
-</p>
+* Large Language Models (LLMs)
+* Vision Language Models (VLMs)
+* Deep Learning
+* Model Fine-Tuning
+* MLOps
+* AI System Design
+* Scalable Backend Architectures
 
 ---
 
-# 📚 Education
+# 💼 Current Goal
 
-🎓 **B.Tech – Computer Science & Engineering**
+Build production-ready AI systems that combine:
 
-Focused on:
-
-* Artificial Intelligence
-* Machine Learning
 * Computer Vision
-* Backend Development
-* Software Engineering
+* Machine Learning
+* FastAPI
+* Cloud Deployment
+* Intelligent Automation
 
 ---
 
-# 🎯 Current Focus
+# 📫 Connect
 
-```text
-Python                 ████████████████████ 100%
-
-FastAPI                ███████████████████░ 95%
-
-Artificial Intelligence██████████████████░░ 95%
-
-Machine Learning       ██████████████████░░ 90%
-
-Deep Learning          █████████████████░░░ 85%
-
-Computer Vision        █████████████████░░░ 85%
-
-OCR Systems            ██████████████████░░ 90%
-
-Backend Development    ███████████████████░ 95%
-```
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://github.com/Palak9763">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="mailto:your-email@example.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-</p>
+* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 💼 LinkedIn: YOUR_LINKEDIN
+* 📧 Email: YOUR_EMAIL
 
 ---
 
 <div align="center">
 
-### ✨ *"Build. Learn. Improve. Repeat."*
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer"/>
+*"Learn continuously. Build consistently. Ship confidently."*
 
 </div>
