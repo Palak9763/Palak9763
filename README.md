@@ -17,7 +17,7 @@
 
 # // HELLO WORLD 👋
 
-```python
+
 class Palak:
 
     def __init__(self):
@@ -36,7 +36,7 @@ class Palak:
 
 me = Palak()
 print(me.current_goal())
-```
+
 
 ---
 
