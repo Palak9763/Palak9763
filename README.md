@@ -191,25 +191,7 @@ Open Source
 
 ```
 
----
 
-# ENGINEERING PRINCIPLES
-
-✔ Learn by Building
-
-✔ Read Documentation First
-
-✔ Keep Solutions Simple
-
-✔ Write Maintainable Code
-
-✔ Production > Demo
-
-✔ Consistency Beats Motivation
-
-✔ Never Stop Learning
-
----
 
 # CURRENTLY EXPLORING
 
