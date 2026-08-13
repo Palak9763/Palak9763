@@ -30,12 +30,6 @@ CURRENT ROLE
 
 🎓 Computer Science Engineering Student
 
-Focus
-
-🧠 Computer Vision
-📄 OCR
-⚡ Backend APIs
-🤖 Deep Learning
 
 ──────────────────────────────────────────────────────────────
 ```
