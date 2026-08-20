@@ -16,24 +16,19 @@
 
 ```text
 ──────────────────────────────────────────────────────────────
-
 STATUS
 
 🟢 Learning
 🟢 Building
 🟢 Experimenting
 🟢 Shipping Projects
-
 ──────────────────────────────────────────────────────────────
-
 CURRENT ROLE
 
 🎓 Computer Science Engineering Student
 
-
 ──────────────────────────────────────────────────────────────
 ```
-
 ---
 
 # WHO AM I
