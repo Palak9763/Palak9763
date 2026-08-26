@@ -1,10 +1,10 @@
 <div align="center">
-  
-# PALAK DESHMUKH
-## AI Engineer • Backend Development
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=950&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>
 
-<br>
+# PALAK DESHMUKH
+
+### AI Engineer • Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer"/>
 
 <img src="https://komarev.com/ghpvc/?username=Palak9763&label=Visitors&color=0ea5e9&style=flat"/>
 
@@ -12,302 +12,86 @@
 
 ---
 
-# AI ENGINEER DASHBOARD
+## 👋 About Me
+
+Computer Science Engineering student passionate about **AI, Computer Vision, OCR, and Backend Development**.
+
+I enjoy turning ideas into practical systems using **Python, Deep Learning, and FastAPI**.
 
 ```text
-──────────────────────────────────────────────────────────────
-STATUS
-
 🟢 Learning
 🟢 Building
 🟢 Experimenting
-🟢 Shipping Projects
-──────────────────────────────────────────────────────────────
-CURRENT ROLE
-
-🎓 Computer Science Engineering Student
-
-──────────────────────────────────────────────────────────────
-```
----
-
-# WHO AM I
-
-I enjoy building software that combines **Artificial Intelligence** with **Backend Engineering** to solve real-world problems.
-
-Rather than only learning concepts, I prefer turning ideas into working products.
-
-My projects mainly revolve around:
-
-- Intelligent OCR
-- Computer Vision
-- FastAPI
-- AI-powered APIs
-- Document Intelligence
-- Deep Learning
-
-I believe the best way to grow is by building things consistently.
-
----
-
-# CURRENT MISSION
-
-```text
-✓ Master Computer Vision
-
-✓ Learn Deep Learning in Depth
-
-✓ Build Production AI Systems
-
-✓ Explore Large Language Models
-
-✓ Build Open Source Projects
-
+🟢 Shipping
 ```
 
 ---
 
-# TOOLBOX
+## 🛠️ Tech Stack
 
-## Artificial Intelligence
+**AI / ML**
 
-```text
-Python
+`Python` `PyTorch` `TensorFlow` `PaddleOCR` `Transformers` `Sentence Transformers` `Ollama`
 
-PyTorch
+**Backend**
 
-TensorFlow
+`FastAPI` `REST APIs` `Redis` `PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
-PaddleOCR
+**Tools**
 
-Transformers
-
-Sentence Transformers
-
-Ollama
-
-Embeddings
-```
+`Git` `GitHub` `Docker` `Postman` `NumPy` `Pandas` `Scikit-Learn`
 
 ---
 
-## Backend
+## 🚀 Featured Projects
 
-```text
-FastAPI
-
-REST APIs
-
-Redis
-
-Swagger
-
-Background Workers
-
-PostgreSQL
-
-MySQL
-
-MongoDB
-
-SQLite
-```
-
----
-
-## Development
-
-```text
-Git
-
-GitHub
-
-Docker
-
-VS Code
-
-Postman
-
-NumPy
-
-Pandas
-
-Scikit-Learn
-```
-
----
-
-# WHAT I BUILD
-
-Instead of creating simple applications, I enjoy building systems that automate real business workflows.
-
----
-
-🏦 Bank Statement Intelligence
-
-Reads bank statements, extracts transactions, generates embeddings, groups narrations intelligently, and exposes everything through scalable REST APIs.
-
----
-
-🤖 AI Backend APIs
-
-Production-ready FastAPI services designed for intelligent document processing.
-
----
-
-# CURRENT ROADMAP
-
-```text
-Computer Vision
-
-███████████████████████
-
-Deep Learning
-
-███████████████████░░░
-
-Large Language Models
-
-███████████████░░░░░░░
-
-Backend Engineering
-
-██████████████████████
-
-Open Source
-
-████████████░░░░░░░░░░
-
-```
-
-
-
-# CURRENTLY EXPLORING
-
-• Vision Language Models
-
-• OCR Optimization
-
-• Model Fine-Tuning
-
-• AI System Design
-
-• Distributed Backend Systems
-
-• RAG
-# 🚀 FEATURED PROJECTS
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🎓 StudExa
+### 🎓 StudExa
 
 **Student Progress Monitoring Platform**
 
-A centralized web application that helps institutions manage student achievements, MAP points, and academic activities through a unified dashboard.
+A Django-based platform for tracking student activities, achievements, and MAP points.
 
-### Highlights
+`Django` `Python` `SQLite`
 
-- 📌 Student Activity Tracking
-- 📊 Automatic MAP Point Calculation
-- 👨‍🏫 Admin Verification System
-- 🔒 Secure Authentication
-- 📱 Responsive Dashboard
+🔗 https://studexa-project.onrender.com/
 
-### Tech Stack
+### 📷 SmartCam
 
-`Django` • `Python` • `SQLite` • `HTML` • `CSS`
+**AI-Powered Health Monitoring**
 
-🔗 **Live Demo**
+Computer vision system for fatigue detection, posture analysis, and wellness monitoring.
 
-https://studexa-project.onrender.com/
+`React` `Computer Vision` `rPPG` `SQLite`
 
-</td>
-
-<td width="50%">
-
-## 📷 SmartCam
-
-**AI Powered Health Monitoring System**
-
-A computer vision application that analyzes webcam input to estimate user wellness and monitor fatigue in real time.
-
-### Highlights
-
-- 👁️ Computer Vision
-- 📷 Webcam Monitoring
-- 😴 Fatigue Detection
-- 🪑 Posture Analysis
-- ❤️ Health Score Generation
-
-### Tech Stack
-`React` • `CSS` • `SQLiteAI` • `rPPG` 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ⚙ OpenModelica
+### ⚙️ OpenModelica
 
 **Engineering Simulation Platform**
 
-Built engineering models using the Modelica language and simulated them with OpenModelica tools.
+Engineering models and simulations built using Modelica and OpenModelica.
 
-### Highlights
+`Python` `PyQt6` `OpenModelica`
 
-- ⚙ System Modeling
-- 🏗 Engineering Simulation
-- 📈 Performance Analysis
-- 🛠 OMEdit
-- 🔬 OMCompiler
-
-### Tech Stack
-`Python` • `PyQT6` • `OpenModelica` • `OMEdit` 
-
-🔗 GitHub
-
-https://github.com/Palak9763/OpenModelica
-
-</td>
-
-<td width="50%">
-
-## 🚧 Currently Building
-
-I enjoy building intelligent backend systems that combine Artificial Intelligence with real-world automation.
-
-### Current Interests
-
-- 🤖 Artificial Intelligence
-- 👁 Computer Vision
-- 📝 OCR Systems
-- ⚡ FastAPI
-- 📄 Document Intelligence
-- 🧠 Deep Learning
-
-**Next Major Projects**
-
-- Intelligent OCR Platform
-- AI Document Processing APIs
-- Smart PDF Intelligence
-- AI Powered Automation
-
-</td>
-
-</tr>
-
-</table>
+🔗 https://github.com/Palak9763/OpenModelica
 
 ---
 
-# 📊 GITHUB DASHBOARD
+## 🔭 Currently Exploring
+
+`Computer Vision` • `Deep Learning` • `OCR` • `VLMs` • `RAG` • `FastAPI` • `AI System Design`
+
+---
+
+## 🎯 2026 Goals
+
+* 🤖 Build production-ready AI systems
+* 📄 Develop intelligent OCR & document AI
+* 👁️ Explore Vision Language Models
+* ⚡ Improve backend architecture
+* 🌍 Contribute to Open Source
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -319,106 +103,26 @@ I enjoy building intelligent backend systems that combine Artificial Intelligenc
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Palak9763&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+## 🤝 Connect With Me
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak9763&theme=tokyo-night"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=tokyonight&column=4"/>
-
-</div>
-
----
-
-# 🎯 2026 ROADMAP
-
-```text
-
-📄 Build Intelligent OCR Systems
-
-🤖 Master Deep Learning
-
-👁 Learn Vision Language Models
-
-⚡ Build Production FastAPI APIs
-
-🌍 Contribute to Open Source
-
-🚀 Continuously Build Real Projects
-```
-
----
-
-# 📚 CURRENTLY LEARNING
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Vision Language Models
-- FastAPI
-- Backend Architecture
-- AI System Design
-
----
-
-# 💭 MY ENGINEERING PHILOSOPHY
-
-> Build things that solve real problems.
-
-I believe practical experience comes from creating projects, experimenting with new technologies, and continuously improving through hands-on development.
-
-Every project I build teaches me something new and pushes me one step closer to becoming a better engineer.
-
----
-
-# 🤝 LET'S CONNECT
-
-<p align="center">
 
 <a href="https://github.com/Palak9763">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/palak-deshmukh-49819231b">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:palakdeshmukh181@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
-
-</p>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting My Profile
-
-### Learning • Building • Improving • Repeating
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00C4FF,100:6C63FF"/>
 
 </div>
 
+<div align="center">
 
+### Build • Learn • Improve 🚀
+
+</div>
