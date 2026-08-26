@@ -58,8 +58,6 @@ I enjoy turning ideas into working products, especially around:
 
 A centralized platform for managing student achievements, activities, and MAP points.
 
-**Highlights**
-
 * 📊 Student activity tracking
 * 📌 Automatic MAP point calculation
 * 👨‍🏫 Admin verification
@@ -77,8 +75,6 @@ A centralized platform for managing student achievements, activities, and MAP po
 **AI-Powered Health Monitoring System**
 
 A computer vision application that analyzes webcam input for real-time fatigue and posture monitoring.
-
-**Highlights**
 
 * 👁️ Computer Vision
 * 😴 Fatigue Detection
@@ -104,13 +100,8 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 ## 🔭 Currently Exploring
 
-`Computer Vision`
-`Deep Learning`
-`OCR Optimization`
-`Vision Language Models`
-`RAG`
-`AI System Design`
-`Production FastAPI`
+`Computer Vision` • `Deep Learning` • `OCR`
+`Vision Language Models` • `RAG` • `FastAPI` • `AI System Design`
 
 ---
 
@@ -127,25 +118,17 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Palak9763&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Palak9763">
+<img src="https://github-readme-stats.vercel.app/api?username=Palak9763&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</a>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak9763&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Palak9763&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak9763&theme=tokyo-night&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=tokyonight&column=4&margin-w=10&margin-h=10"/>
+<a href="https://github.com/Palak9763">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak9763&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</a>
 
 </div>
 
@@ -155,7 +138,9 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 > Build things that solve real problems.
 
-I believe the best way to become a better engineer is to **build, experiment, learn, and repeat**.
+I believe the best way to become a better engineer is to:
+
+**Build → Experiment → Learn → Improve → Repeat**
 
 ---
 
@@ -182,7 +167,5 @@ I believe the best way to become a better engineer is to **build, experiment, le
 <div align="center">
 
 ### ⭐ Learning • Building • Improving • Repeating
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C4FF,100:6C63FF"/>
 
 </div>
