@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Palak9763&label=Visitors&color=0ea5e9&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Palak9763&label=Profile+Views&color=0ea5e9&style=flat"/>
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science Engineering student** passionate about building practical systems using **Artificial Intelligence and Backend Engineering**.
+I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Computer Vision, and Backend Development**.
 
-I enjoy turning ideas into working products, especially around:
+I enjoy turning ideas into practical software and building systems that solve real-world problems.
 
-`Computer Vision` • `OCR` • `Deep Learning` • `FastAPI` • `Document Intelligence`
+`AI` • `Computer Vision` • `OCR` • `Deep Learning` • `FastAPI`
 
 ```text
 🟢 Learning
@@ -40,8 +40,8 @@ I enjoy turning ideas into working products, especially around:
 
 ### ⚡ Backend
 
-`FastAPI` `REST APIs` `Redis` `PostgreSQL`
-`MySQL` `MongoDB` `SQLite`
+`FastAPI` `REST APIs` `Redis`
+`PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
 ### 🔧 Tools
 
@@ -61,7 +61,7 @@ A centralized platform for managing student achievements, activities, and MAP po
 * 📊 Student activity tracking
 * 📌 Automatic MAP point calculation
 * 👨‍🏫 Admin verification
-* 🔐 Authentication
+* 🔐 Secure authentication
 * 📱 Responsive dashboard
 
 `Django` `Python` `SQLite`
@@ -74,7 +74,7 @@ A centralized platform for managing student achievements, activities, and MAP po
 
 **AI-Powered Health Monitoring System**
 
-A computer vision application that analyzes webcam input for real-time fatigue and posture monitoring.
+A computer vision application designed for real-time fatigue and posture monitoring through webcam input.
 
 * 👁️ Computer Vision
 * 😴 Fatigue Detection
@@ -101,7 +101,8 @@ Engineering models and simulations built using Modelica and OpenModelica.
 ## 🔭 Currently Exploring
 
 `Computer Vision` • `Deep Learning` • `OCR`
-`Vision Language Models` • `RAG` • `FastAPI` • `AI System Design`
+`Vision Language Models` • `RAG` • `FastAPI`
+`AI System Design` • `Document Intelligence`
 
 ---
 
@@ -118,29 +119,13 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/Palak9763">
-<img src="https://github-readme-stats.vercel.app/api?username=Palak9763&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</a>
-
-<a href="https://github.com/Palak9763">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak9763&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</a>
-
-</div>
-
----
-
 ## 💭 Engineering Philosophy
 
 > Build things that solve real problems.
 
-I believe the best way to become a better engineer is to:
-
 **Build → Experiment → Learn → Improve → Repeat**
+
+I believe practical experience comes from consistently building, experimenting, and improving.
 
 ---
 
