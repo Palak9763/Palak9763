@@ -4,7 +4,9 @@
 
 ### AI Engineer • Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Palak9763&label=Visitors&color=0ea5e9&style=flat"/>
 
@@ -14,9 +16,11 @@
 
 ## 👋 About Me
 
-Computer Science Engineering student passionate about **AI, Computer Vision, OCR, and Backend Development**.
+I'm a **Computer Science Engineering student** passionate about building practical systems using **Artificial Intelligence and Backend Engineering**.
 
-I enjoy turning ideas into practical systems using **Python, Deep Learning, and FastAPI**.
+I enjoy turning ideas into working products, especially around:
+
+`Computer Vision` • `OCR` • `Deep Learning` • `FastAPI` • `Document Intelligence`
 
 ```text
 🟢 Learning
@@ -29,17 +33,20 @@ I enjoy turning ideas into practical systems using **Python, Deep Learning, and 
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+### 🤖 AI / ML
 
-`Python` `PyTorch` `TensorFlow` `PaddleOCR` `Transformers` `Sentence Transformers` `Ollama`
+`Python` `PyTorch` `TensorFlow` `PaddleOCR`
+`Transformers` `Sentence Transformers` `Ollama` `Embeddings`
 
-**Backend**
+### ⚡ Backend
 
-`FastAPI` `REST APIs` `Redis` `PostgreSQL` `MySQL` `MongoDB` `SQLite`
+`FastAPI` `REST APIs` `Redis` `PostgreSQL`
+`MySQL` `MongoDB` `SQLite`
 
-**Tools**
+### 🔧 Tools
 
-`Git` `GitHub` `Docker` `Postman` `NumPy` `Pandas` `Scikit-Learn`
+`Git` `GitHub` `Docker` `Postman`
+`NumPy` `Pandas` `Scikit-Learn`
 
 ---
 
@@ -49,19 +56,39 @@ I enjoy turning ideas into practical systems using **Python, Deep Learning, and 
 
 **Student Progress Monitoring Platform**
 
-A Django-based platform for tracking student activities, achievements, and MAP points.
+A centralized platform for managing student achievements, activities, and MAP points.
+
+**Highlights**
+
+* 📊 Student activity tracking
+* 📌 Automatic MAP point calculation
+* 👨‍🏫 Admin verification
+* 🔐 Authentication
+* 📱 Responsive dashboard
 
 `Django` `Python` `SQLite`
 
 🔗 https://studexa-project.onrender.com/
 
+---
+
 ### 📷 SmartCam
 
-**AI-Powered Health Monitoring**
+**AI-Powered Health Monitoring System**
 
-Computer vision system for fatigue detection, posture analysis, and wellness monitoring.
+A computer vision application that analyzes webcam input for real-time fatigue and posture monitoring.
+
+**Highlights**
+
+* 👁️ Computer Vision
+* 😴 Fatigue Detection
+* 🪑 Posture Analysis
+* ❤️ Wellness Score
+* 📷 Webcam Monitoring
 
 `React` `Computer Vision` `rPPG` `SQLite`
+
+---
 
 ### ⚙️ OpenModelica
 
@@ -69,7 +96,7 @@ Computer vision system for fatigue detection, posture analysis, and wellness mon
 
 Engineering models and simulations built using Modelica and OpenModelica.
 
-`Python` `PyQt6` `OpenModelica`
+`Python` `PyQt6` `OpenModelica` `OMEdit`
 
 🔗 https://github.com/Palak9763/OpenModelica
 
@@ -77,21 +104,30 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 ## 🔭 Currently Exploring
 
-`Computer Vision` • `Deep Learning` • `OCR` • `VLMs` • `RAG` • `FastAPI` • `AI System Design`
+`Computer Vision`
+`Deep Learning`
+`OCR Optimization`
+`Vision Language Models`
+`RAG`
+`AI System Design`
+`Production FastAPI`
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🤖 Build production-ready AI systems
-* 📄 Develop intelligent OCR & document AI
-* 👁️ Explore Vision Language Models
-* ⚡ Improve backend architecture
-* 🌍 Contribute to Open Source
+```text
+📄 Build Intelligent OCR Systems
+🤖 Master Deep Learning
+👁️ Explore Vision Language Models
+⚡ Build Production AI APIs
+🌍 Contribute to Open Source
+🚀 Build Real-World AI Products
+```
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -99,11 +135,31 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak9763&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Palak9763&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palak9763&theme=tokyo-night&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Palak9763&theme=tokyonight&column=4&margin-w=10&margin-h=10"/>
+
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 💭 Engineering Philosophy
+
+> Build things that solve real problems.
+
+I believe the best way to become a better engineer is to **build, experiment, learn, and repeat**.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -121,8 +177,12 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 </div>
 
+---
+
 <div align="center">
 
-### Build • Learn • Improve 🚀
+### ⭐ Learning • Building • Improving • Repeating
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C4FF,100:6C63FF"/>
 
 </div>
