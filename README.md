@@ -13,7 +13,6 @@
 </div>
 
 ---
-
 ## 👋 About Me
 
 I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Computer Vision, and Backend Development**.
