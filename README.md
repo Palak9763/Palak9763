@@ -15,7 +15,7 @@
 ---
 ## 👋 About Me
 
-I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Computer Vision, and Backend Development**.
+I'm a *Computer Science Engineering student** passionate about **Artificial Intelligence, Computer Vision, and Backend Development**.
 
 I enjoy turning ideas into practical software and building systems that solve real-world problems.
 
