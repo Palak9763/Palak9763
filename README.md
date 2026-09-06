@@ -1,53 +1,70 @@
-<div align="center">
-
+::: {align="center"}
 # PALAK DESHMUKH
 
 ### AI Engineer • Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>
+`<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Building+AI+that+Solves+Real+Problems;Computer+Vision+%7C+OCR+%7C+Deep+Learning;FastAPI+Backend+Developer;Always+Learning.+Always+Building."/>`{=html}
 
-<br>
+`<br>`{=html}
 
-<img src="https://komarev.com/ghpvc/?username=Palak9763&label=Profile+Views&color=0ea5e9&style=flat"/>
+`<img src="https://komarev.com/ghpvc/?username=Palak9763&label=Profile+Views&color=0ea5e9&style=flat"/>`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
 ## 👋 About Me
 
-I'm a *Computer Science Engineering student** passionate about **Artificial Intelligence, Computer Vision, and Backend Development**.
+I'm a *Computer Science Engineering student* passionate about
+**Artificial Intelligence, Computer Vision, and Backend Development**.
 
-I enjoy turning ideas into practical software and building systems that solve real-world problems.
+I enjoy turning ideas into practical software and building systems that
+solve real-world problems.
 
 `AI` • `Computer Vision` • `OCR` • `Deep Learning` • `FastAPI`
 
-```text
+``` text
 🟢 Learning
 🟢 Building
 🟢 Experimenting
 🟢 Shipping
 ```
 
----
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+::: {align="center"}
+`<img src="https://github-readme-stats.vercel.app/api?username=Palak9763&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>`{=html}
+
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak9763&layout=compact&theme=github_dark&hide_border=true" height="180"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🔥 GitHub Streak
+
+::: {align="center"}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak9763&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>`{=html}
+:::
+
+------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
 
-`Python` `PyTorch` `TensorFlow` `PaddleOCR`
-`Transformers` `Sentence Transformers` `Ollama` `Embeddings`
+`Python` `PyTorch` `TensorFlow` `PaddleOCR` `Transformers`
+`Sentence Transformers` `Ollama` `Embeddings`
 
 ### ⚡ Backend
 
-`FastAPI` `REST APIs` `Redis`
-`PostgreSQL` `MySQL` `MongoDB` `SQLite`
+`FastAPI` `REST APIs` `Redis` `PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
 ### 🔧 Tools
 
-`Git` `GitHub` `Docker` `Postman`
-`NumPy` `Pandas` `Scikit-Learn`
+`Git` `GitHub` `Docker` `Postman` `NumPy` `Pandas` `Scikit-Learn`
 
----
+------------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
@@ -55,59 +72,61 @@ I enjoy turning ideas into practical software and building systems that solve re
 
 **Student Progress Monitoring Platform**
 
-A centralized platform for managing student achievements, activities, and MAP points.
+A centralized platform for managing student achievements, activities,
+and MAP points.
 
-* 📊 Student activity tracking
-* 📌 Automatic MAP point calculation
-* 👨‍🏫 Admin verification
-* 🔐 Secure authentication
-* 📱 Responsive dashboard
+-   📊 Student activity tracking
+-   📌 Automatic MAP point calculation
+-   👨‍🏫 Admin verification
+-   🔐 Secure authentication
+-   📱 Responsive dashboard
 
 `Django` `Python` `SQLite`
 
 🔗 https://studexa-project.onrender.com/
 
----
+------------------------------------------------------------------------
 
 ### 📷 SmartCam
 
 **AI-Powered Health Monitoring System**
 
-A computer vision application designed for real-time fatigue and posture monitoring through webcam input.
+A computer vision application designed for real-time fatigue and posture
+monitoring through webcam input.
 
-* 👁️ Computer Vision
-* 😴 Fatigue Detection
-* 🪑 Posture Analysis
-* ❤️ Wellness Score
-* 📷 Webcam Monitoring
+-   👁️ Computer Vision
+-   😴 Fatigue Detection
+-   🪑 Posture Analysis
+-   ❤️ Wellness Score
+-   📷 Webcam Monitoring
 
 `React` `Computer Vision` `rPPG` `SQLite`
 
----
+------------------------------------------------------------------------
 
 ### ⚙️ OpenModelica
 
 **Engineering Simulation Platform**
 
-Engineering models and simulations built using Modelica and OpenModelica.
+Engineering models and simulations built using Modelica and
+OpenModelica.
 
 `Python` `PyQt6` `OpenModelica` `OMEdit`
 
 🔗 https://github.com/Palak9763/OpenModelica
 
----
+------------------------------------------------------------------------
 
 ## 🔭 Currently Exploring
 
-`Computer Vision` • `Deep Learning` • `OCR`
-`Vision Language Models` • `RAG` • `FastAPI`
-`AI System Design` • `Document Intelligence`
+`Computer Vision` • `Deep Learning` • `OCR` `Vision Language Models` •
+`RAG` • `FastAPI` `AI System Design` • `Document Intelligence`
 
----
+------------------------------------------------------------------------
 
 ## 🎯 2026 Goals
 
-```text
+``` text
 📄 Build Intelligent OCR Systems
 🤖 Master Deep Learning
 👁️ Explore Vision Language Models
@@ -116,7 +135,7 @@ Engineering models and simulations built using Modelica and OpenModelica.
 🚀 Build Real-World AI Products
 ```
 
----
+------------------------------------------------------------------------
 
 ## 💭 Engineering Philosophy
 
@@ -124,32 +143,29 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 **Build → Experiment → Learn → Improve → Repeat**
 
-I believe practical experience comes from consistently building, experimenting, and improving.
+I believe practical experience comes from consistently building,
+experimenting, and improving.
 
----
+------------------------------------------------------------------------
 
 ## 🤝 Let's Connect
 
-<div align="center">
+::: {align="center"}
+`<a href="https://github.com/Palak9763">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<a href="https://github.com/Palak9763">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`<a href="https://www.linkedin.com/in/palak-deshmukh-49819231b">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<a href="https://www.linkedin.com/in/palak-deshmukh-49819231b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+`<a href="mailto:palakdeshmukh181@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
+:::
 
-<a href="mailto:palakdeshmukh181@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+------------------------------------------------------------------------
 
-</div>
-
----
-
-<div align="center">
-
+::: {align="center"}
 ### ⭐ Learning • Building • Improving • Repeating
-
-</div>
+:::
