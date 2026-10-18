@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # PALAK DESHMUKH
 
@@ -13,6 +13,7 @@
 </div>
 
 ---
+
 ## 👋 About Me
 
 I'm a *Computer Science Engineering student* passionate about **Artificial Intelligence, Computer Vision, and Backend Development**.
@@ -35,17 +36,30 @@ I enjoy turning ideas into practical software and building systems that solve re
 ### 🤖 AI / ML
 
 `Python` `PyTorch` `TensorFlow` `PaddleOCR`
+
 `Transformers` `Sentence Transformers` `Ollama` `Embeddings`
 
 ### ⚡ Backend
 
 `FastAPI` `REST APIs` `Redis`
+
 `PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
 ### 🔧 Tools
 
 `Git` `GitHub` `Docker` `Postman`
+
 `NumPy` `Pandas` `Scikit-Learn`
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palak9763&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=5B7CFA&amp;fire=79A6FF&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=79A6FF&amp;dates=999999" alt="Palak's GitHub Streak Stats"/>
+
+</div>
 
 ---
 
@@ -57,15 +71,15 @@ I enjoy turning ideas into practical software and building systems that solve re
 
 A centralized platform for managing student achievements, activities, and MAP points.
 
-* 📊 Student activity tracking
-* 📌 Automatic MAP point calculation
-* 👨‍🏫 Admin verification
-* 🔐 Secure authentication
-* 📱 Responsive dashboard
+- 📊 Student activity tracking
+- 📌 Automatic MAP point calculation
+- 👨‍🏫 Admin verification
+- 🔐 Secure authentication
+- 📱 Responsive dashboard
 
 `Django` `Python` `SQLite`
 
-🔗 https://studexa-project.onrender.com/
+🔗 [Live Demo](https://studexa-project.onrender.com/)
 
 ---
 
@@ -75,11 +89,11 @@ A centralized platform for managing student achievements, activities, and MAP po
 
 A computer vision application designed for real-time fatigue and posture monitoring through webcam input.
 
-* 👁️ Computer Vision
-* 😴 Fatigue Detection
-* 🪑 Posture Analysis
-* ❤️ Wellness Score
-* 📷 Webcam Monitoring
+- 👁️ Computer Vision
+- 😴 Fatigue Detection
+- 🪑 Posture Analysis
+- ❤️ Wellness Score
+- 📷 Webcam Monitoring
 
 `React` `Computer Vision` `rPPG` `SQLite`
 
@@ -93,14 +107,16 @@ Engineering models and simulations built using Modelica and OpenModelica.
 
 `Python` `PyQt6` `OpenModelica` `OMEdit`
 
-🔗 https://github.com/Palak9763/OpenModelica
+🔗 [GitHub Repository](https://github.com/Palak9763/OpenModelica)
 
 ---
 
 ## 🔭 Currently Exploring
 
 `Computer Vision` • `Deep Learning` • `OCR`
+
 `Vision Language Models` • `RAG` • `FastAPI`
+
 `AI System Design` • `Document Intelligence`
 
 ---
@@ -133,15 +149,15 @@ I believe practical experience comes from consistently building, experimenting, 
 <div align="center">
 
 <a href="https://github.com/Palak9763">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/palak-deshmukh-49819231b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:palakdeshmukh181@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
